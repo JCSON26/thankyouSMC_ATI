@@ -2,7 +2,7 @@ body,
 html {
   width: 100%;
   height: 100%;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Crimson Text', sans-serif;
   background: url(header.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -11,8 +11,8 @@ html {
 }
 
 h1 {
-  font-size: 3rem;
-  color: #476f97;
+  font-size: 2.5rem;
+  color: #06264a;
 }
 
 hr {
@@ -30,7 +30,7 @@ hr {
 .btn {
   font-weight: 700;
   border-radius: 300px;
-  text-transform: uppercase;
+  text-transform: full width;
 }
 
 .btn-primary {
